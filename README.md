@@ -1,2 +1,2 @@
-# blog-news-hpmsh-kysi-suku-hublaku-hubla
+# blog-news-HPMSH-KYSI
 Blog news HPMSH-KYSI
